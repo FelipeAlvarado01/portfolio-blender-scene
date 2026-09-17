@@ -1,0 +1,8 @@
+# Blender temporales y respaldos
+*.blend1
+*.blend2
+*.blend@
+*.crash.txt
+*.bmap
+*.blend-journal
+*.lock
